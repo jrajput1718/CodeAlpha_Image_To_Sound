@@ -4,11 +4,15 @@ This repo will help you get started on how you can get started with speech synth
 In order to run this code you're supposed to have pytesseract and google text to sound libary installed on your machine, you can just use pip command to this.
 
 -> pip install pytesseract
+
 -> pip install gTTS
+
 -> pip install pillow
 # To start
 In order to use this code, firstly clone the repo using git or download the zip file manually
 
 $-> git clone https://github.com/jrajput1718/convert-image-to-sound-using-python
+
 $->cd convert-image-to-sound-using-python
+
 $-> convert-image-to-sound-python--> python imageTosound.py
